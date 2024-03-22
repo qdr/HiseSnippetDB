@@ -5,4 +5,4 @@ author: do-mayer
 active: true
 tags:
 ---
-You can  create script references to Interface components and callbacks with a right click on the selected elements. Plus a few examples of callback usagee.
+You can create script references to Interface components and callbacks with a right click on the selected elements. Plus a few examples of callback usagee.
