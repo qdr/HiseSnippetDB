@@ -93,16 +93,17 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  sub-category:
-    input: text
-    accessorKey: sub-category
-    key: sub-category
-    id: sub-category
-    label: sub-category
-    position: 3
+  active:
+    input: checkbox
+    accessorKey: active
+    key: active
+    id: active
+    label: active
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 135
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -112,17 +113,16 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  active:
-    input: checkbox
-    accessorKey: active
-    key: active
-    id: active
-    label: active
-    position: 100
+  tags:
+    input: text
+    accessorKey: tags
+    key: tags
+    id: tags
+    label: tags
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 135
     config:
       enable_media_view: true
       link_alias_enabled: true

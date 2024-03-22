@@ -1,9 +1,9 @@
 ---
 category: 
-sub-category: 
 HiseSnippet: 
 author: 
 active: true
+tags: 
 ---
 _Short factual description what the snippet does._ (min 1, max 5 sentences)
 
