@@ -18,13 +18,9 @@ Modules
 - Scriptnode
 
 Event Processing
-- 
-
 ScriptingAPI
 
 UI Interaction
-- ScriptPanel
-- Layout
+
 
 Visuals
-- LookAndFeel
