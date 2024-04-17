@@ -99,7 +99,7 @@ columns:
     key: active
     id: active
     label: active
-    position: 6
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1

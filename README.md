@@ -1,3 +1,6 @@
+---
+active: false
+---
 ## HiseSnippet DB
 A database of HiseSnippets that can be quickly opened in a popup inside HISE and that demonstrate and show off HISE' capabilities. This should serve as a quick peak into example functionality as well as a repository of your own userSnippets made easy accessible. 
 

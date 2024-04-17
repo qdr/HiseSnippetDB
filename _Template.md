@@ -7,20 +7,21 @@ tags:
 ---
 _Short factual description what the snippet does._ (min 1, max 5 sentences)
 
+Select a category
 
-Select a category and subcategory
-
-Modules
-- Soundgenerator
+- Modules
 - MIDI
-- Modulator
-- FX
+- Scripting
 - Scriptnode
+- UI
 
-Event Processing
-ScriptingAPI
+and/or one of these tags:
 
-UI Interaction
-
-
-Visuals
+- Modulation
+- ScriptAPI
+- Helper tools
+- ScriptPanel
+- Broadcaster
+- Layout
+- Visuals
+- Full project
