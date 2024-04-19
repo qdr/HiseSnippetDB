@@ -5,6 +5,7 @@ author: do-mayer
 active: true
 tags:
   - Visuals
+priority: 3
 ---
 Base setup with a Panel and the Starter GLSL Template.
 

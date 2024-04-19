@@ -4,5 +4,6 @@ HiseSnippet: HiseSnippet 2460.3ocsY01aajaDdkikarZcQth9wBDB+glUoJajR7k51TiSN9kdtM
 author: christoph-hart
 active: true
 tags: ScriptPanel
+priority: 2
 ---
 Add items to a list dynamically. This can serve as an entry point for building a custom preset browser, file browser, task list, etc.. 

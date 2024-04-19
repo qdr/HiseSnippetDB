@@ -4,5 +4,6 @@ HiseSnippet: HiseSnippet 1886.3oc4XstaabbEdVIstRahRSBLZyuJFPkBPBPtgKE0MDDDRQJJnF
 author: do-mayer
 active: true
 tags: 
+priority: 3
 ---
 A sliderpack for tuning an octave. This can be filled with predefined scales.

@@ -4,5 +4,6 @@ HiseSnippet: HiseSnippet 1267.3oc6X0raiTDDtG6zNqSBvtZg69nWofkMDVPhC1INwfE3Dq3PXQ
 author: beyhan-kilic
 active: true
 tags: ""
+priority: 2
 ---
 Stereo Width control with using ms_decode & ms_encode nodes.

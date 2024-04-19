@@ -20,8 +20,10 @@ columns:
     csvCandidate: true
     position: 1
     isHidden: false
-    sortIndex: -1
+    sortIndex: 2
     width: -194
+    isSorted: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -59,7 +61,7 @@ columns:
     key: author
     id: author
     label: author
-    position: 4
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -103,7 +105,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 135
+    width: -117
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -123,6 +125,26 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  priority:
+    input: number
+    accessorKey: priority
+    key: priority
+    id: priority
+    label: priority
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: -40
     config:
       enable_media_view: true
       link_alias_enabled: true

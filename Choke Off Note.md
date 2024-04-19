@@ -4,6 +4,7 @@ HiseSnippet: HiseSnippet 2020.3oc6Y0uabbaDeOIs0QaibR.RA5eR3TfbGfjhVqOr.DLx8shPsr
 author: christoph-hart
 active: true
 tags: ""
+priority: 2
 ---
 A script to let a note ring, and choke it off with another note, like with a open and closed HiHat. This script makes use of the Artifical Event Type. Learn more about this in [HISE Event](https://docs.hise.audio/glossary/hise-event.html) .
 

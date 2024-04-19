@@ -5,6 +5,7 @@ author: christoph-hart
 active: true
 tags:
   - Visuals
+priority: 4
 ---
 GLSL MorphBall-  Uses the bunny.glsl script in the GLSL Folder inside "Scripts".
 

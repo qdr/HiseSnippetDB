@@ -4,6 +4,7 @@ HiseSnippet: HiseSnippet 967.3ocsV01aiSDDdcZ8wk.AwIwW3aqxGPNnPpc4tiJPUTZZJDw0dQj
 author: christoph-hart
 active: true
 tags: ScriptPanel
+priority: 3
 ---
 You can open an Website with `Engine.openWebsite("")` . The easiest way to implement this is with a ScriptPanel. A click event will open up the website in an external webbrowser.
 

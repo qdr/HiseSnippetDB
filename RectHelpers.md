@@ -4,6 +4,7 @@ HiseSnippet: HiseSnippet 1991.3ocuYstTiajEVlYbpHugsRpjGfN9GyJGbL1vjK05gIA7kDWy.C
 author: christoph-hart
 active: true
 tags: Helper tools
+priority: 3
 ---
 
 A simple toolkit for slicing a rectangle. This closely follows the JUCE API for the [Rectangle](https://docs.juce.com/master/classRectangle.html) class and allows you to easily layout components.

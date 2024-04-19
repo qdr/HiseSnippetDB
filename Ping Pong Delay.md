@@ -4,5 +4,6 @@ HiseSnippet: HiseSnippet 1891.3oc6Z07aaTDEeW6LIwIokVnQzKHYg3PpTIJaZo.BjrymsQTmXE
 author: christoph-hart
 active: true
 tags: ""
+priority: 2
 ---
 A ScriptNode network that ping-pongs the signal. You can xfade the effect with the WET parameter. 

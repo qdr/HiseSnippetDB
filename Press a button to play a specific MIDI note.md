@@ -4,5 +4,6 @@ HiseSnippet: HiseSnippet 1011.3oc2W80aaaCDmx1ZX1cIXcnXXOJTrGT.JBr2RxFvdnNwwtvX0I
 author: do-mayer
 active: true
 tags: ""
+priority: 1
 ---
 Create a Button CustomCallback which plays a specific MIDI note on click. 

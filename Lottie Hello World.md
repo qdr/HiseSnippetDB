@@ -4,5 +4,6 @@ HiseSnippet: HiseSnippet 3950.3ocsYktiiijbtpdlZ8Ns8Zrqg+k+kPCXu8X0fCEIknjML7JQIJ
 author: christoph-hart
 active: true
 tags: Visuals
+priority: 3
 ---
 Plays back a Lottie animation sequence in HISE. On the right side you can scrub through the animation frame by frame with a mouse drag.
