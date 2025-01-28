@@ -1,5 +1,4 @@
----
-author: christoph-hart
+---"\rauthor": christoph-hart
 category: Scriptnode
 tags: Best Practice, SNEX
 active: true
